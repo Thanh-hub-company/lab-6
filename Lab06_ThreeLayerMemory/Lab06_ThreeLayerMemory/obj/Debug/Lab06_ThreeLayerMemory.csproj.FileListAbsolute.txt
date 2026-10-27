@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.Properties.Resources.resources
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\bin\Debug\Lab06_ThreeLayerMemory.exe.config
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\bin\Debug\Lab06_ThreeLayerMemory.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\bin\Debug\Lab06_ThreeLayerMemory.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab6\Lab06_ThreeLayerMemory\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.exe.config
